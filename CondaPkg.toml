@@ -1,7 +1,6 @@
 channels = ["pytorch", "nvidia"]
 
 [deps]
-pytorch-cuda = ""
 opencv = ""
 pytorch = ""
 torchvision = ""
